@@ -1,0 +1,16 @@
+Debug/
+software/
+
+output_files/
+db/
+incremental_db/
+interconnect/
+presets/
+hps_isw_handoff/
+.qsys_edit/
+
+*.tcl~
+
+hps_sdram_p0_all_pins.txt
+c5_pin_model_dump.txt
+interconnect.sopcinfo
